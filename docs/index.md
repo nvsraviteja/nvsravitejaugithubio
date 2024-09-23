@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
--- <a href="./../site/Terraform">Terraform</a>
+<a href="Terraform">Terraform</a>
 
 ## Commands
 
