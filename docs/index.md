@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+<a href="Terraform.md">Terraform</a>
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
