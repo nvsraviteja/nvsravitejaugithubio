@@ -1,8 +1,8 @@
-# Welcome to MkDocs
+#Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-<a href="Terraform.md">Terraform</a>
+-- <a href="./../site/Terraform">Terraform</a>
 
 ## Commands
 
